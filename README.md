@@ -5,6 +5,7 @@ A basic embedded-system project designed to monitor kitchen environmental condit
 ## 📷 Project Setup
 
 ![Kitchen Safety Monitoring System]()
+![Kitchen Safety Monitoring System Circuit](https://github.com/jahnaviroutu/kitchen-safety-monitoring-system/blob/05ccb3128464ff135a40034b6ec4ca17e9d52649/circuit_diagram_DHT11.png)
 
 ## 🔍 Project Overview
 
