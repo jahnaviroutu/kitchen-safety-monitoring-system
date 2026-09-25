@@ -33,6 +33,7 @@ The project was first developed and tested as a circuit simulation and was then 
 4. The readings are compared with the programmed conditions.
 5. The LED and buzzer provide an alert when the defined conditions are detected.
 
+## 🔌Circuit Diagram
 ![Kitchen Safety Monitoring System Circuit](https://github.com/jahnaviroutu/kitchen-safety-monitoring-system/blob/05ccb3128464ff135a40034b6ec4ca17e9d52649/circuit_diagram_DHT11.png)
 
 ## 🧰 Tools & Technologies
