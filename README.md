@@ -4,8 +4,7 @@ A basic embedded-system project designed to monitor kitchen environmental condit
 
 ## 📷 Project Setup
 
-![Kitchen Safety Monitoring System]()
-![Kitchen Safety Monitoring System Circuit](https://github.com/jahnaviroutu/kitchen-safety-monitoring-system/blob/05ccb3128464ff135a40034b6ec4ca17e9d52649/circuit_diagram_DHT11.png)
+![Kitchen Safety Monitoring System](https://github.com/jahnaviroutu/kitchen-safety-monitoring-system/blob/f2d3b74bb43ad4c951c741b20ad40f2aa2575103/kitchen%20safety%20monitoring%20system.jpg)
 
 ## 🔍 Project Overview
 
@@ -33,6 +32,8 @@ The project was first developed and tested as a circuit simulation and was then 
 3. Arduino reads the sensor values.
 4. The readings are compared with the programmed conditions.
 5. The LED and buzzer provide an alert when the defined conditions are detected.
+
+![Kitchen Safety Monitoring System Circuit](https://github.com/jahnaviroutu/kitchen-safety-monitoring-system/blob/05ccb3128464ff135a40034b6ec4ca17e9d52649/circuit_diagram_DHT11.png)
 
 ## 🧰 Tools & Technologies
 
